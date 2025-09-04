@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **snehahshishmishra18@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1eq8hDpZoVL92EIQ6zwu5YD9ir-Nx1rnL/view?usp=drive_link](https://drive.google.com/file/d/1eq8hDpZoVL92EIQ6zwu5YD9ir-Nx1rnL/view?usp=drive_link)
+- 📄 Know about my experiences [https://tinyurl.com/SnehashishResume])
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
