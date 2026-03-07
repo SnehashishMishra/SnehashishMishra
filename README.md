@@ -19,9 +19,11 @@
 - 💬 Ask me about **React, Express, Python**
 - 📫 Reach me at **snehahshishmishra18@gmail.com**
 
-<p align="left">
+📄 Resume
+
+<p>
 <a href="https://tinyurl.com/SnehashishResume">
-<img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+<img src="https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 </p>
 
