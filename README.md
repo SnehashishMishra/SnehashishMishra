@@ -73,7 +73,7 @@
 # 🧠 Coding Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnehashishMishra&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SnehashishMishra&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -84,8 +84,8 @@
 
 # 🚀 Latest Projects
 
-<!-- AUTO PROJECTS START -->
-<!-- AUTO PROJECTS END -->
+<!--START_SECTION:repos-->
+<!--END_SECTION:repos-->
 
 ---
 
@@ -93,13 +93,11 @@
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SnehashishMishra&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SnehashishMishra&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnehashishMishra&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SnehashishMishra&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
-
----
 
 # 🔥 Contribution Streak
 
@@ -112,7 +110,7 @@
 # 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SnehashishMishra&theme=tokyonight&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SnehashishMishra&theme=tokyonight&no-frame=true&margin-w=10"/>
 </p>
 
 ---
