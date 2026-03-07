@@ -10,7 +10,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me&nbsp;&nbsp;
 
 <div align="center">
 
@@ -24,17 +24,13 @@
 
 ---
 
-📄 Resume
+## 📄 Resume&nbsp;&nbsp;
 
-<p align="center">
-<a href="https://tinyurl.com/SnehashishResume">
-<img src="https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-</a>
-</p>
+<div align="center"> <a href="https://tinyurl.com/SnehashishResume"><img src="https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a> </div>
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me&nbsp;&nbsp;
 
 <p align="center">
 <a href="https://linkedin.com/in/snehashish-mishra">
@@ -44,7 +40,7 @@
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Tech Stack&nbsp;&nbsp;
 
 <div align="center">
 
