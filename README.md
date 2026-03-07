@@ -44,13 +44,13 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css,bash"/>
+<img src="https://skillicons.dev/icons?i=ts,js,python,java,html,css,bash"/>
 </p>
 
 ### Frameworks
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,flask,tailwind,bootstrap"/>
 </p>
 
 ### Databases
@@ -59,10 +59,19 @@
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite"/>
 </p>
 
+### Data Science & ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40"/>
+</p>
+
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,git,linux,postman"/>
+<img src="https://skillicons.dev/icons?i=aws,postman,git,linux"/>
 </p>
 
 ---
