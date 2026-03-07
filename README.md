@@ -19,8 +19,11 @@
 - 💬 Ask me about **React, Express, Python**
 - 📫 Reach me at **snehahshishmishra18@gmail.com**
 
-📄 Resume  
-https://tinyurl.com/SnehashishResume
+<p align="left">
+<a href="https://tinyurl.com/SnehashishResume">
+<img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
+</p>
 
 ---
 
@@ -64,26 +67,91 @@ https://tinyurl.com/SnehashishResume
 
 # 🧠 Coding Skill Levels
 
-```text
-JavaScript     ███████████████░░   80%
-React          ██████████████░░░   75%
-Node.js        █████████████░░░░   70%
-Next.js        ███████████░░░░░░   60%
-TypeScript     ███████████░░░░░░   60%
-Python         █████████████░░░░   70%
+## ⚡ Coding Skills
 
-| Project            | Description                     |
-| ------------------ | ------------------------------- |
-| 🎵 MelodyPass      | Concert ticket booking platform |
-| 📝 E-Notes         | Academic note sharing platform  |
-| 🛒 MERN E-commerce | Full stack e-commerce system    |
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnehashishMishra&layout=donut&theme=tokyonight&hide_border=true"/>
+</p>
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=javascript,react,nodejs,nextjs,typescript,python&perline=6"/>
+</p>
 
-📊 GitHub Stats
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SnehashishMishra&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnehashishMishra&layout=compact&theme=tokyonight&hide_border=true"/> </p>
+---
 
-🔥 GitHub Streak
-<p align="center"> <img src="https://streak-stats.demolab.com?user=SnehashishMishra&theme=tokyonight&hide_border=true"/> </p>
+# 🚀 Featured Projects
+
+<p align="center">
+
+<a href="https://github.com/SnehashishMishra/MelodyPass">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SnehashishMishra&repo=MelodyPass&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/SnehashishMishra/E-Notes">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SnehashishMishra&repo=E-Notes&theme=tokyonight"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/SnehashishMishra/MERN-Ecommerce">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SnehashishMishra&repo=MERN-Ecommerce&theme=tokyonight"/>
+</a>
+
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SnehashishMishra&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnehashishMishra&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=SnehashishMishra&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=SnehashishMishra&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SnehashishMishra&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/SnehashishMishra/SnehashishMishra/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=SnehashishMishra&label=Profile%20Views&color=00ff9c&style=for-the-badge"/>
+</p>
 🏆 GitHub Achievements
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=SnehashishMishra&theme=tokyonight&row=1&column=7"/> </p>
 📈 Contribution Graph
