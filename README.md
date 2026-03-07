@@ -110,7 +110,17 @@
 # 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SnehashishMishra&theme=algolia&no-frame=true&margin-w=10"/>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SnehashishMishra&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AWS%20Cloud%20Intern-AICTE-blue?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/MERN%20Stack-Developer-green?style=for-the-badge&logo=mongodb"/>
+<img src="https://img.shields.io/badge/Currently%20Building-MelodyPass-purple?style=for-the-badge&logo=musicbrainz"/>
+
 </p>
 
 ---
