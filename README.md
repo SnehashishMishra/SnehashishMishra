@@ -10,7 +10,7 @@
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 - 🔭 Currently building **MelodyPass**
 - 🌱 Learning **Next.js & TypeScript**
@@ -28,7 +28,7 @@
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p>
 <a href="https://linkedin.com/in/snehashish-mishra">
@@ -38,7 +38,7 @@
 
 ---
 
-# ⚡ Tech Stack
+## ⚡ Tech Stack
 
 ### Languages
 <p>
@@ -70,7 +70,7 @@
 
 ---
 
-# 🧠 Coding Stats
+## 🧠 Coding Stats
 
 <p align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SnehashishMishra&layout=compact&theme=tokyonight&hide_border=true"/>
@@ -82,14 +82,14 @@
 
 ---
 
-# 🚀 Latest Projects
+## 🚀 Latest Projects
 
-<!--START_SECTION:repos-->
-<!--END_SECTION:repos-->
+<!-- repos:START -->
+<!-- repos:END -->
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
 
@@ -99,7 +99,7 @@
 
 </p>
 
-# 🔥 Contribution Streak
+## 🔥 Contribution Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=SnehashishMishra&theme=tokyonight&hide_border=true"/>
@@ -107,7 +107,7 @@
 
 ---
 
-# 🏆 GitHub Achievements
+## 🏆 GitHub Achievements
 
 <p align="center">
 
@@ -125,7 +125,7 @@
 
 ---
 
-# 📈 Contribution Activity
+## 📈 Contribution Activity
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SnehashishMishra&theme=tokyo-night"/>
@@ -133,7 +133,7 @@
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/SnehashishMishra/SnehashishMishra/output/github-contribution-grid-snake.svg"/>
@@ -141,7 +141,7 @@
 
 ---
 
-# 👀 Profile Visitors
+## 👀 Profile Visitors
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=SnehashishMishra&label=Profile%20Views&color=00ff9c&style=for-the-badge"/>
