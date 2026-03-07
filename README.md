@@ -110,7 +110,7 @@
 # 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SnehashishMishra&theme=tokyonight&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SnehashishMishra&theme=algolia&no-frame=true&margin-w=10"/>
 </p>
 
 ---
