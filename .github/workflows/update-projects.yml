@@ -1,4 +1,4 @@
-name: Update Repo List
+name: Update Latest Projects
 
 on:
   schedule:
@@ -13,9 +13,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v3
 
-      - name: Update repository list
-        uses: anmol098/waka-readme-stats@master
+      - name: Generate Repo List
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          comment_tag_name: repos
+          feed_list: "https://github.com/SnehashishMishra.atom"
