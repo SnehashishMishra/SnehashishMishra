@@ -40,34 +40,17 @@
 
 ## ⚡ Tech Stack
 
-### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=ts,js,python,java,html,css,bash"/>
-</p>
+<div align="center">
 
-### Frameworks
-<p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,flask,tailwind,bootstrap"/>
-</p>
+| Category | Technologies |
+|:--:|:--:|
+| **Languages** | <img src="https://skillicons.dev/icons?i=ts,js,python,java,html,css,bash" height="35"/> |
+| **Frameworks** | <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,flask,tailwind,bootstrap" height="35"/> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" height="35"/> |
+| **Data Science & ML** | <img src="https://skillicons.dev/icons?i=python" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35"/> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="35"/> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=aws,postman,git,linux" height="35"/> |
 
-### Databases
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite"/>
-</p>
-
-### Data Science & ML
-<p>
-<img src="https://skillicons.dev/icons?i=python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40"/>
-</p>
-
-### Tools
-<p>
-<img src="https://skillicons.dev/icons?i=aws,postman,git,linux"/>
-</p>
-
+</div>
 ---
 
 ## 🧠 Coding Stats
@@ -82,15 +65,27 @@
 
 ---
 
-## 🚀 Latest Projects
+## 🚀 Featured Projects
 
-<!-- repos:START -->
-- [SnehashishMishra pushed SnehashishMishra](https://github.com/SnehashishMishra/SnehashishMishra/compare/347d187af9...c4376b76ce)
-- [SnehashishMishra pushed SnehashishMishra](https://github.com/SnehashishMishra/SnehashishMishra/compare/ec3acbc253...347d187af9)
-- [SnehashishMishra pushed SnehashishMishra](https://github.com/SnehashishMishra/SnehashishMishra/compare/91f016609e...ec3acbc253)
-- [SnehashishMishra pushed SnehashishMishra](https://github.com/SnehashishMishra/SnehashishMishra/compare/21ff6479c7...91f016609e)
-- [SnehashishMishra pushed SnehashishMishra](https://github.com/SnehashishMishra/SnehashishMishra/compare/10eab95f26...21ff6479c7)
-<!-- repos:END -->
+<p align="center">
+
+<a href="https://github.com/SnehashishMishra/MelodyPass-frontend">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SnehashishMishra&repo=MelodyPass&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/SnehashishMishra/E-Notes">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SnehashishMishra&repo=E-Notes&theme=tokyonight&hide_border=true"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/SnehashishMishra/MERN-Ecommerce">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SnehashishMishra&repo=MERN-Ecommerce&theme=tokyonight&hide_border=true"/>
+</a>
+
+</p>
 
 ---
 
