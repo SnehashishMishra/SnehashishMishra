@@ -69,20 +69,32 @@
 
 <p align="center">
 
-<a href="https://github.com/SnehashishMishra/MelodyPass-frontend">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SnehashishMishra&repo=MelodyPass&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/SnehashishMishra/E-Notes">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SnehashishMishra&repo=E-Notes&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/SnehashishMishra/portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SnehashishMishra&repo=portfolio&theme=tokyonight&hide_border=true"/>
 </a>
 
 </p>
 
 <p align="center">
 
-<a href="https://github.com/SnehashishMishra/MERN-Ecommerce">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SnehashishMishra&repo=MERN-Ecommerce&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/SnehashishMishra/MelodyPass-frontend">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SnehashishMishra&repo=MelodyPass-frontend&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/SnehashishMishra/eNotes">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SnehashishMishra&repo=eNotes&theme=tokyonight&hide_border=true"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/SnehashishMishra/annapurna_agency">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SnehashishMishra&repo=annapurna_agency&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/SnehashishMishra/MLModels-frontend">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SnehashishMishra&repo=annapurna_agency&theme=tokyonight&hide_border=true"/>
 </a>
 
 </p>
