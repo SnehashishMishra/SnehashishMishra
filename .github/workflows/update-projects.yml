@@ -1,9 +1,12 @@
-name: Update Projects
+name: Update Project List
 
 on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update-readme:
@@ -12,7 +15,8 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Update repo list
-        uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Generate Repo List
+        uses: DenverCoder1/readme-repo-list@v1
+        with:
+          username: SnehashishMishra
+          max_repos: 6
