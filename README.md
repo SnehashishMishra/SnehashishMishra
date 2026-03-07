@@ -1,9 +1,9 @@
-<!-- MATRIX STYLE BANNER -->
+<!-- HEADER BANNER -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Snehashish%20Mishra&fontSize=45&fontColor=00ff9c&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:0072ff,100:00ff9c&height=220&section=header&text=Snehashish%20Mishra&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
-<!-- TYPING ANIMATION -->
+<!-- TYPING INTRO -->
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Snehashish+Mishra;Full+Stack+Developer;MERN+%7C+Next.js+%7C+TypeScript;Cloud+Enthusiast;Building+Scalable+Web+Applications"/>
 </p>
@@ -12,12 +12,11 @@
 
 # 👨‍💻 About Me
 
-- 🔭 Currently working on **E-Notes**
+- 🔭 Currently building **MelodyPass**
 - 🌱 Learning **Next.js & TypeScript**
 - ☁️ Completed **AWS Cloud Virtual Internship (AICTE)**
-- 🤝 Looking to collaborate on **AI / ML projects**
-- 💬 Ask me about **React, Express, Python**
-- 📫 Reach me at **snehahshishmishra18@gmail.com**
+- 🤝 Interested in **AI / ML**
+- 💬 Ask me about **React, Node, Python**
 
 📄 Resume
 
@@ -31,7 +30,7 @@
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p>
 <a href="https://linkedin.com/in/snehashish-mishra">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
@@ -42,25 +41,21 @@
 # ⚡ Tech Stack
 
 ### Languages
-
 <p>
 <img src="https://skillicons.dev/icons?i=ts,js,python,java,html,css,bash"/>
 </p>
 
 ### Frameworks
-
 <p>
 <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,flask,tailwind,bootstrap"/>
 </p>
 
 ### Databases
-
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite"/>
 </p>
 
 ### Data Science & ML
-
 <p>
 <img src="https://skillicons.dev/icons?i=python"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
@@ -69,19 +64,16 @@
 </p>
 
 ### Tools
-
 <p>
 <img src="https://skillicons.dev/icons?i=aws,postman,git,linux"/>
 </p>
 
 ---
 
-# 🧠 Coding Skill Levels
-
-## ⚡ Coding Skills
+# 🧠 Coding Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnehashishMishra&layout=donut&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnehashishMishra&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -90,31 +82,14 @@
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Latest Projects
 
-<p align="center">
-
-<a href="https://github.com/SnehashishMishra/MelodyPass">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SnehashishMishra&repo=MelodyPass&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/SnehashishMishra/E-Notes">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SnehashishMishra&repo=E-Notes&theme=tokyonight"/>
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/SnehashishMishra/MERN-Ecommerce">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SnehashishMishra&repo=MERN-Ecommerce&theme=tokyonight"/>
-</a>
-
-</p>
+<!-- AUTO PROJECTS START -->
+<!-- AUTO PROJECTS END -->
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -126,7 +101,7 @@
 
 ---
 
-## 🔥 Contribution Streak
+# 🔥 Contribution Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=SnehashishMishra&theme=tokyonight&hide_border=true"/>
@@ -134,15 +109,15 @@
 
 ---
 
-## 🏆 GitHub Achievements
+# 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SnehashishMishra&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SnehashishMishra&theme=tokyonight&no-frame=true"/>
 </p>
 
 ---
 
-## 📈 Contribution Activity
+# 📈 Contribution Activity
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SnehashishMishra&theme=tokyo-night"/>
@@ -150,7 +125,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/SnehashishMishra/SnehashishMishra/output/github-contribution-grid-snake.svg"/>
@@ -158,17 +133,14 @@
 
 ---
 
-## 👀 Profile Visitors
+# 👀 Profile Visitors
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=SnehashishMishra&label=Profile%20Views&color=00ff9c&style=for-the-badge"/>
 </p>
-🏆 GitHub Achievements
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=SnehashishMishra&theme=tokyonight&row=1&column=7"/> </p>
-📈 Contribution Graph
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=SnehashishMishra&theme=tokyo-night"/> </p>
-🐍 Contribution Snake
-<p align="center"> <img src="https://raw.githubusercontent.com/SnehashishMishra/SnehashishMishra/output/github-contribution-grid-snake.svg"> </p>
-👀 Visitors
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=SnehashishMishra&label=Profile%20Views&color=00ff9c&style=flat"/> </p>
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/> </p>
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,50:00c6ff,100:0072ff&height=120&section=footer"/>
+</p>
