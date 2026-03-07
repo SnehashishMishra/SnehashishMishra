@@ -12,15 +12,21 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently building **MelodyPass**
-- 🌱 Learning **Next.js & TypeScript**
-- ☁️ Completed **AWS Cloud Virtual Internship (AICTE)**
-- 🤝 Interested in **AI / ML**
-- 💬 Ask me about **React, Node, Python**
+<div align="center">
+
+🔭 Currently building **MelodyPass**  
+🌱 Learning **Next.js & TypeScript**  
+☁️ Completed **AWS Cloud Virtual Internship (AICTE)**  
+🤝 Interested in **AI / ML**  
+💬 Ask me about **React, Node, Python**
+
+</div>
+
+---
 
 📄 Resume
 
-<p>
+<p align="center">
 <a href="https://tinyurl.com/SnehashishResume">
 <img src="https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
@@ -30,7 +36,7 @@
 
 ## 🌐 Connect With Me
 
-<p>
+<p align="center">
 <a href="https://linkedin.com/in/snehashish-mishra">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
@@ -51,6 +57,7 @@
 | **Tools** | <img src="https://skillicons.dev/icons?i=aws,postman,git,linux" height="35"/> |
 
 </div>
+
 ---
 
 ## 🧠 Coding Stats
@@ -60,7 +67,7 @@
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=javascript,react,nodejs,nextjs,typescript,python&perline=6"/>
+<img src="https://skillicons.dev/icons?i=nextjs,typescript,react,nodejs,python,javascript&perline=6"/>
 </p>
 
 ---
@@ -70,7 +77,7 @@
 <p align="center">
 
 <a href="https://github.com/SnehashishMishra/portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SnehashishMishra&repo=portfolio&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SnehashishMishra&repo=portfolio&theme=tokyonight&hide_border=true"/>
 </a>
 
 </p>
@@ -78,11 +85,11 @@
 <p align="center">
 
 <a href="https://github.com/SnehashishMishra/MelodyPass-frontend">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SnehashishMishra&repo=MelodyPass-frontend&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SnehashishMishra&repo=MelodyPass-frontend&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/SnehashishMishra/eNotes">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SnehashishMishra&repo=eNotes&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SnehashishMishra&repo=eNotes&theme=tokyonight&hide_border=true"/>
 </a>
 
 </p>
@@ -90,26 +97,16 @@
 <p align="center">
 
 <a href="https://github.com/SnehashishMishra/annapurna_agency">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SnehashishMishra&repo=annapurna_agency&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SnehashishMishra&repo=annapurna_agency&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/SnehashishMishra/MLModels-frontend">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SnehashishMishra&repo=annapurna_agency&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SnehashishMishra&repo=MLModels-frontend&theme=tokyonight&hide_border=true"/>
 </a>
 
 </p>
 
 ---
-
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SnehashishMishra&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SnehashishMishra&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ## 🔥 Contribution Streak
 
